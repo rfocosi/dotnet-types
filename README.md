@@ -1,2 +1,2 @@
 # dotnet-types
-Java types to help translating from dotNet
+Java types to help migrating source from dotNet.
