@@ -1,4 +1,6 @@
-package br.com.dod.types;
+package br.com.dod.dotnet.types;
+
+import br.com.dod.types.IntegerType;
 
 /**
  * 16-bit unsigned integer.
