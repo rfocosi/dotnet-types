@@ -10,9 +10,9 @@ public class CHARTest {
 
 	@Test
 	public void test() throws EOFException, IOException {
-		
+
 		CHAR dnChar = new CHAR('A');
-		
+
 		Assert.assertEquals('A', dnChar.charValue());
 		Assert.assertEquals("A", dnChar.toString());
 		Assert.assertEquals(65, dnChar.intValue());
