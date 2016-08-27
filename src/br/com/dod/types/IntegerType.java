@@ -118,6 +118,10 @@ public abstract class IntegerType extends Number {
 		}	        
 		return buf;
 	}
+	
+	public int getSize() {
+		return size;
+	}
 
 	public long getUInt32() {
 		byte[] bytes = getBytes(4);
